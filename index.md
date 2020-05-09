@@ -1,5 +1,13 @@
-  # Hololab of Tsinghua Univ. 
-## 清华大学精密仪器系全息实验室
+
+<div align=left><img src="https://github.com/THUHoloLab/thuhololab.github.io/blob/blog-meterial/thu_tag.jpg" width = "12%" height = "12%"><div align=left><img src="https://github.com/THUHoloLab/thuhololab.github.io/blob/blog-meterial/hololab_tag.png" width = "10%" height = "10%">
+  
+# <center> Hololab of Tsinghua Univ. </center>
+# <center>清华大学精密仪器系全息实验室</center>
+
+### Research Interests 
+1. Information optics based on holography (i.e. computed generated holographic three-dimensional display, and digital holographic imaging, High-density holographic optical storage, parallel optical computing); 
+2. Volume holographic materials and gratings (i.e. photopolymers, nanocomposites; LiNbO3 crystals, multiplexed gratings; mixed gratings); 
+3. Applications of technologies in laser beam steering, spectral filter, remote image processing, high-speed image processor, high-resolution display, and education.
 
 You can use the [editor on GitHub](https://github.com/THUHoloLab/thu_hololab.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
