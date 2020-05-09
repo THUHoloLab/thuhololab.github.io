@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+  # Hololab of Tsinghua Univ. 
+## 清华大学精密仪器系全息实验室
 
 You can use the [editor on GitHub](https://github.com/THUHoloLab/thu_hololab.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
